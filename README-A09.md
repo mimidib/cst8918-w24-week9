@@ -13,7 +13,7 @@ Your team has decided to use GitHub Actions as the CI/CD tool to automate the de
 
 ### Create a simple terraform script
 
-In the `infrastructure` folder, create a simple Terraform script that creates at least one resource in Azure. This could be a virtual machine, a storage account, or any other resource that you choose. The purpose of this script is to create a Terraform script that you can use to test the GitHub Actions workflow.
+In the `terraform` folder, create a simple Terraform script that creates at least one resource in Azure. This could be a virtual machine, a storage account, or any other resource that you choose. The purpose of this script is to create a Terraform script that you can use to test the GitHub Actions workflow.
 
 ### Code formatting
 
