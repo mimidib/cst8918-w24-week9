@@ -14,7 +14,7 @@ provider "azurerm" {
   features {}
 }
 
-  resource "azurerm_resource_group" "rg" {
+resource "azurerm_resource_group" "rg" {
   name     = "${var.label_prefix}-rg"
   location = "canadacentral"
 }
