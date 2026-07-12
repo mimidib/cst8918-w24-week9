@@ -19,3 +19,6 @@ terraform.rc
 
 # Node
 node_modules/
+
+# Kubeconfig - contains cluster admin credentials
+**/kubeconfig
